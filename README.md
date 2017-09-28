@@ -4,5 +4,5 @@ An implementation of Deep Thought's algorithm (although shortened) of The Ultima
 ## Content
 Deep Thought created The Answer (after a couple billion years), and Arthur Dent (with Ford Prefect's help) invented The Question.
 
-This is a fan project for The Hitchhiker's Guid to The Galaxy, and The Restaurant at The End of The Universe.
+This is a fan project for The Hitchhiker's Guide to The Galaxy, and The Restaurant at The End of The Universe.
 All rights reserved to their original, respective owners.
